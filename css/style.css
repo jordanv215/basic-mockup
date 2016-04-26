@@ -10,6 +10,13 @@ body {
 	margin: 0;
 }
 
+/**
+* Header
+**/
+header {
+	background-color: firebrick;
+}
+
 .container {
 	margin: 0 auto;
 	width: 1170px;
