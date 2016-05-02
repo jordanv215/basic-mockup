@@ -16,12 +16,16 @@ body {
 header {
 	background-color: lightskyblue;
 	width: 1170px;
-	padding: 10px 30px;
-	border: 5px darkgrey;
+	padding: 10px 0;
 	margin: 0 auto;
-	font-family: "Times New Roman", Times, serif;
-	font-size: 18px;
 }
+
+.clear {
+	background-color: lightskyblue;
+	padding: 20px;
+	margin: 20px 0;
+}
+
 
 .pull-left {
 	float: left;
